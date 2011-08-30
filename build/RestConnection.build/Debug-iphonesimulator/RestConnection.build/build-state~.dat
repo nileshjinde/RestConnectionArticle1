@@ -1,0 +1,393 @@
+TRestConnection
+v7
+r0
+t278781417.743765
+cCheck dependencies
+cProcessInfoPlistFile /Developer/Code/Blog/RestConnectionArticle1/build/Debug-iphonesimulator/RestConnection.app/Info.plist RestConnection-Info.plist
+cCompileXIB /Developer/Code/Blog/RestConnectionArticle1/MainWindow.xib
+cCompileXIB /Developer/Code/Blog/RestConnectionArticle1/Classes/SearchResultsViewController.xib
+cProcessPCH /var/folders/Xb/Xb9At7HBF1Oz6DYqM0KFD++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RestConnection_Prefix-blppkllzabcmyncveujdmikjshqb/RestConnection_Prefix.pch.gch RestConnection_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/Objects-normal/i386/main.o /Developer/Code/Blog/RestConnectionArticle1/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/Objects-normal/i386/RestConnectionAppDelegate.o /Developer/Code/Blog/RestConnectionArticle1/Classes/RestConnectionAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/Objects-normal/i386/RestConnection.o /Developer/Code/Blog/RestConnectionArticle1/Classes/RestConnection.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/Objects-normal/i386/SearchResultsViewController.o /Developer/Code/Blog/RestConnectionArticle1/Classes/SearchResultsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Code/Blog/RestConnectionArticle1/Classes/RestConnection.h
+c000000004AEDA6620000000000000440
+t1257088610
+s1088
+i<Foundation/Foundation.h>
+i"RestConnectionDelegate.h"
+
+N/Developer/Code/Blog/RestConnectionArticle1/Classes/RestConnection.m
+c000000004AEDA66700000000000010F5
+t1257088615
+s4341
+i"RestConnection.h"
+
+N/Developer/Code/Blog/RestConnectionArticle1/Classes/RestConnectionAppDelegate.h
+c000000004ACA099100000000000001BB
+t1254754705
+s443
+i<UIKit/UIKit.h>
+
+N/Developer/Code/Blog/RestConnectionArticle1/Classes/RestConnectionAppDelegate.m
+c000000004ACA09B100000000000002E5
+t1254754737
+s741
+i"RestConnectionAppDelegate.h"
+i"SearchResultsViewController.h"
+
+N/Developer/Code/Blog/RestConnectionArticle1/Classes/RestConnectionDelegate.h
+c000000004ACA6AC2000000000000015F
+t1254779586
+s351
+
+N/Developer/Code/Blog/RestConnectionArticle1/Classes/SearchResultsViewController.h
+c000000004ACA2A6F000000000000022F
+t1254763119
+s559
+i<UIKit/UIKit.h>
+i"RestConnectionDelegate.h"
+
+N/Developer/Code/Blog/RestConnectionArticle1/Classes/SearchResultsViewController.m
+c000000004ACB8B9B000000000000076E
+t1254853531
+s1902
+i"SearchResultsViewController.h"
+i"RestConnection.h"
+
+N/Developer/Code/Blog/RestConnectionArticle1/Classes/SearchResultsViewController.xib
+c000000004ACA184800000000000058E3
+t1254758472
+s22755
+
+N/Developer/Code/Blog/RestConnectionArticle1/MainWindow.xib
+c000000004AC946610000000000001F76
+t1254704737
+s8054
+
+N/Developer/Code/Blog/RestConnectionArticle1/RestConnection_Prefix.pch
+c000000004AC9466100000000000000C5
+t1254704737
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Developer/Code/Blog/RestConnectionArticle1/build/Debug-iphonesimulator/RestConnection.app
+t2
+s0
+
+N/Developer/Code/Blog/RestConnectionArticle1/build/Debug-iphonesimulator/RestConnection.app.dSYM
+t2
+s0
+
+N/Developer/Code/Blog/RestConnectionArticle1/build/Debug-iphonesimulator/RestConnection.app/Info.plist
+t1257088615
+s590
+
+N/Developer/Code/Blog/RestConnectionArticle1/build/Debug-iphonesimulator/RestConnection.app/MainWindow.nib
+t1257088616
+s972
+
+N/Developer/Code/Blog/RestConnectionArticle1/build/Debug-iphonesimulator/RestConnection.app/PkgInfo
+t1257088615
+s8
+
+N/Developer/Code/Blog/RestConnectionArticle1/build/Debug-iphonesimulator/RestConnection.app/RestConnection
+t2
+s0
+
+N/Developer/Code/Blog/RestConnectionArticle1/build/Debug-iphonesimulator/RestConnection.app/SearchResultsViewController.nib
+t1257088616
+s2005
+
+N/Developer/Code/Blog/RestConnectionArticle1/build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/Objects-normal/i386/RestConnection.LinkFileList
+c000000004AEDA667000000000000026A
+t1257088615
+s618
+
+N/Developer/Code/Blog/RestConnectionArticle1/build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/Objects-normal/i386/RestConnection.o
+t2
+s0
+
+N/Developer/Code/Blog/RestConnectionArticle1/build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/Objects-normal/i386/RestConnectionAppDelegate.o
+t1257088617
+s39948
+
+N/Developer/Code/Blog/RestConnectionArticle1/build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/Objects-normal/i386/SearchResultsViewController.o
+t1257088617
+s40324
+
+N/Developer/Code/Blog/RestConnectionArticle1/build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/Objects-normal/i386/main.o
+t1257088617
+s5960
+
+N/Developer/Code/Blog/RestConnectionArticle1/main.m
+c000000004AC946610000000000000172
+t1254704737
+s370
+i<UIKit/UIKit.h>
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk
+c000000004A6BC18300000000000000EE
+t1248575875
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A821911000000000026DAB0
+t1250040081
+s2546352
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A765094000000000027D510
+t1249267860
+s2610448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A7650820000000000001355
+t1249267842
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A7C6E970000000000000788
+t1249668759
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A7C6F590000000001670E70
+t1249668953
+s23531120
+
+N/var/folders/Xb/Xb9At7HBF1Oz6DYqM0KFD++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RestConnection_Prefix-blppkllzabcmyncveujdmikjshqb/RestConnection_Prefix.pch.gch
+t1257088617
+s13034960
+
+NRestConnection-Info.plist
+c000000004AC94661000000000000038D
+t1254704737
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies278781415#278781415#0(0"0(0#1#0"9007637348679712#0"0#
+
+CCompileC build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/Objects-normal/i386/RestConnection.o /Developer/Code/Blog/RestConnectionArticle1/Classes/RestConnection.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s278781417.608915
+e278781417.708016
+r0
+xCompileC
+xbuild/RestConnection.build/Debug-iphonesimulator/RestConnection.build/Objects-normal/i386/RestConnection.o
+x/Developer/Code/Blog/RestConnectionArticle1/Classes/RestConnection.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Developer/Code/Blog/RestConnectionArticle1/Classes/RestConnection.m: In function '-[RestConnection clearUrlConnection]':
+o/Developer/Code/Blog/RestConnectionArticle1/Classes/RestConnection.m:124: error: accessing unknown 'requestData' getter method
+o{standard input}:621:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000007$pb"
+o{standard input}:621:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression
+o{standard input}:613:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000007$pb"
+o{standard input}:613:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression
+o{standard input}:607:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_3" minus "L00000000007$pb"
+o{standard input}:607:symbol: "L_OBJC_CLASS_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:598:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000007$pb"
+o{standard input}:598:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+o{standard input}:586:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L00000000007$pb"
+o{standard input}:586:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression
+o{standard input}:583:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_2" minus "L00000000007$pb"
+o{standard input}:583:symbol: "L_OBJC_CLASS_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:577:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000007$pb"
+o{standard input}:577:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+o{standard input}:565:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000007$pb"
+o{standard input}:565:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression
+o{standard input}:558:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000007$pb"
+o{standard input}:558:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+o{standard input}:546:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000007$pb"
+o{standard input}:546:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression
+o{standard input}:508:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000006$pb"
+o{standard input}:508:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+o{standard input}:500:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L00000000006$pb"
+o{standard input}:500:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression
+o{standard input}:489:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000006$pb"
+o{standard input}:489:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+o{standard input}:477:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000006$pb"
+o{standard input}:477:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+o{standard input}:466:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000006$pb"
+o{standard input}:466:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+o{standard input}:454:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000006$pb"
+o{standard input}:454:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+o{standard input}:442:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000006$pb"
+o{standard input}:442:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression
+o{standard input}:432:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000006$pb"
+o{standard input}:432:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression
+o{standard input}:426:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000006$pb"
+o{standard input}:426:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression
+o{standard input}:420:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000006$pb"
+o{standard input}:420:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression
+o{standard input}:412:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L00000000006$pb"
+o{standard input}:412:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression
+o{standard input}:407:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_1" minus "L00000000006$pb"
+o{standard input}:407:symbol: "L_OBJC_CLASS_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:404:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_1" minus "L00000000006$pb"
+o{standard input}:404:symbol: "L_OBJC_CLASS_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:394:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000006$pb"
+o{standard input}:394:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:386:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000006$pb"
+o{standard input}:386:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression
+o{standard input}:380:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000006$pb"
+o{standard input}:380:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression
+o{standard input}:372:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000006$pb"
+o{standard input}:372:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression
+o{standard input}:288:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000005$pb"
+o{standard input}:288:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression
+o{standard input}:284:non-relocatable subtraction expression, "L_OBJC_CLASS_RestConnection" minus "L00000000005$pb"
+o{standard input}:284:symbol: "L_OBJC_CLASS_RestConnection" can't be undefined in a subtraction expression
+o{standard input}:276:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000005$pb"
+o{standard input}:276:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+o{standard input}:267:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000005$pb"
+o{standard input}:267:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+o{standard input}:258:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000005$pb"
+o{standard input}:258:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+o{standard input}:249:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000005$pb"
+o{standard input}:249:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+o{standard input}:239:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000005$pb"
+o{standard input}:239:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+o{standard input}:210:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000004$pb"
+o{standard input}:210:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+o{standard input}:153:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000003$pb"
+o{standard input}:153:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+o{standard input}:139:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000003$pb"
+o{standard input}:139:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:135:non-relocatable subtraction expression, "L_OBJC_CLASS_RestConnection" minus "L00000000003$pb"
+o{standard input}:135:symbol: "L_OBJC_CLASS_RestConnection" can't be undefined in a subtraction expression
+o{standard input}:106:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000002$pb"
+o{standard input}:106:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:98:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000002$pb"
+o{standard input}:98:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:89:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000002$pb"
+o{standard input}:89:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:86:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_0" minus "L00000000002$pb"
+o{standard input}:86:symbol: "L_OBJC_CLASS_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:59:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
+o{standard input}:59:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:53:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:53:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_RestConnection
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_17
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_18
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_19
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_20
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_REFERENCES_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_21
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_REFERENCES_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_22
+lSLF07#2@76"Compile /Developer/Code/Blog/RestConnectionArticle1/Classes/RestConnection.m278781417#278781417#0(12209"/Developer/Code/Blog/RestConnectionArticle1/Classes/RestConnection.m: In function '-[RestConnection clearUrlConnection]':/Developer/Code/Blog/RestConnectionArticle1/Classes/RestConnection.m:124: error: accessing unknown 'requestData' getter method{standard input}:621:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000007$pb"{standard input}:621:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression{standard input}:613:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000007$pb"{standard input}:613:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression{standard input}:607:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_3" minus "L00000000007$pb"{standard input}:607:symbol: "L_OBJC_CLASS_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:598:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000007$pb"{standard input}:598:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:586:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L00000000007$pb"{standard input}:586:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression{standard input}:583:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_2" minus "L00000000007$pb"{standard input}:583:symbol: "L_OBJC_CLASS_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:577:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000007$pb"{standard input}:577:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:565:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000007$pb"{standard input}:565:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression{standard input}:558:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000007$pb"{standard input}:558:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:546:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000007$pb"{standard input}:546:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression{standard input}:508:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000006$pb"{standard input}:508:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:500:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L00000000006$pb"{standard input}:500:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression{standard input}:489:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000006$pb"{standard input}:489:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression{standard input}:477:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000006$pb"{standard input}:477:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:466:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000006$pb"{standard input}:466:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression{standard input}:454:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000006$pb"{standard input}:454:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:442:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000006$pb"{standard input}:442:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression{standard input}:432:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000006$pb"{standard input}:432:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression{standard input}:426:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000006$pb"{standard input}:426:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression{standard input}:420:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000006$pb"{standard input}:420:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression{standard input}:412:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L00000000006$pb"{standard input}:412:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression{standard input}:407:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_1" minus "L00000000006$pb"{standard input}:407:symbol: "L_OBJC_CLASS_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:404:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_1" minus "L00000000006$pb"{standard input}:404:symbol: "L_OBJC_CLASS_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:394:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000006$pb"{standard input}:394:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:386:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000006$pb"{standard input}:386:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression{standard input}:380:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000006$pb"{standard input}:380:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression{standard input}:372:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000006$pb"{standard input}:372:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression{standard input}:288:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000005$pb"{standard input}:288:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression{standard input}:284:non-relocatable subtraction expression, "L_OBJC_CLASS_RestConnection" minus "L00000000005$pb"{standard input}:284:symbol: "L_OBJC_CLASS_RestConnection" can't be undefined in a subtraction expression{standard input}:276:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000005$pb"{standard input}:276:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:267:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000005$pb"{standard input}:267:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:258:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000005$pb"{standard input}:258:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:249:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000005$pb"{standard input}:249:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:239:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000005$pb"{standard input}:239:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:210:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000004$pb"{standard input}:210:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression{standard input}:153:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000003$pb"{standard input}:153:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:139:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000003$pb"{standard input}:139:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:135:non-relocatable subtraction expression, "L_OBJC_CLASS_RestConnection" minus "L00000000003$pb"{standard input}:135:symbol: "L_OBJC_CLASS_RestConnection" can't be undefined in a subtraction expression{standard input}:106:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000002$pb"{standard input}:106:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:98:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000002$pb"{standard input}:98:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:89:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000002$pb"{standard input}:89:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:86:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_0" minus "L00000000002$pb"{standard input}:86:symbol: "L_OBJC_CLASS_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:59:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"{standard input}:59:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:53:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:53:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_RestConnection{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_REFERENCES_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_17{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_18{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_19{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_20{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_REFERENCES_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_21{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_REFERENCES_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_221(4@45"Accessing unknown 'requestData' getter method278781417#122#127#0(6@68"/Developer/Code/Blog/RestConnectionArticle1/Classes/RestConnection.m278781415#124#0#124#0#0"0(0#0#68"/Developer/Code/Blog/RestConnectionArticle1/Classes/RestConnection.m4300885448#2080"    cd /Developer/Code/Blog/RestConnectionArticle1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Developer/Code/Blog/RestConnectionArticle1/build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/RestConnection-generated-files.hmap -I/Developer/Code/Blog/RestConnectionArticle1/build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/RestConnection-own-target-headers.hmap -I/Developer/Code/Blog/RestConnectionArticle1/build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/RestConnection-all-target-headers.hmap -iquote /Developer/Code/Blog/RestConnectionArticle1/build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/RestConnection-project-headers.hmap -F/Developer/Code/Blog/RestConnectionArticle1/build/Debug-iphonesimulator -I/Developer/Code/Blog/RestConnectionArticle1/build/Debug-iphonesimulator/include -I/Developer/Code/Blog/RestConnectionArticle1/build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/DerivedSources/i386 -I/Developer/Code/Blog/RestConnectionArticle1/build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/DerivedSources -include /var/folders/Xb/Xb9At7HBF1Oz6DYqM0KFD++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RestConnection_Prefix-blppkllzabcmyncveujdmikjshqb/RestConnection_Prefix.pch -c /Developer/Code/Blog/RestConnectionArticle1/Classes/RestConnection.m -o /Developer/Code/Blog/RestConnectionArticle1/build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/Objects-normal/i386/RestConnection.o1#
+
+CCompileC build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/Objects-normal/i386/RestConnectionAppDelegate.o /Developer/Code/Blog/RestConnectionArticle1/Classes/RestConnectionAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s278781417.461202
+e278781417.623386
+r1
+xCompileC
+xbuild/RestConnection.build/Debug-iphonesimulator/RestConnection.build/Objects-normal/i386/RestConnectionAppDelegate.o
+x/Developer/Code/Blog/RestConnectionArticle1/Classes/RestConnectionAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Developer/Code/Blog/RestConnectionArticle1/Classes/RestConnectionAppDelegate.m278781417#278781417#0(0"0(0#0#79"/Developer/Code/Blog/RestConnectionArticle1/Classes/RestConnectionAppDelegate.m4300885448#2102"    cd /Developer/Code/Blog/RestConnectionArticle1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Developer/Code/Blog/RestConnectionArticle1/build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/RestConnection-generated-files.hmap -I/Developer/Code/Blog/RestConnectionArticle1/build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/RestConnection-own-target-headers.hmap -I/Developer/Code/Blog/RestConnectionArticle1/build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/RestConnection-all-target-headers.hmap -iquote /Developer/Code/Blog/RestConnectionArticle1/build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/RestConnection-project-headers.hmap -F/Developer/Code/Blog/RestConnectionArticle1/build/Debug-iphonesimulator -I/Developer/Code/Blog/RestConnectionArticle1/build/Debug-iphonesimulator/include -I/Developer/Code/Blog/RestConnectionArticle1/build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/DerivedSources/i386 -I/Developer/Code/Blog/RestConnectionArticle1/build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/DerivedSources -include /var/folders/Xb/Xb9At7HBF1Oz6DYqM0KFD++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RestConnection_Prefix-blppkllzabcmyncveujdmikjshqb/RestConnection_Prefix.pch -c /Developer/Code/Blog/RestConnectionArticle1/Classes/RestConnectionAppDelegate.m -o /Developer/Code/Blog/RestConnectionArticle1/build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/Objects-normal/i386/RestConnectionAppDelegate.o0#
+
+CCompileC build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/Objects-normal/i386/SearchResultsViewController.o /Developer/Code/Blog/RestConnectionArticle1/Classes/SearchResultsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s278781417.623493
+e278781417.743667
+r1
+xCompileC
+xbuild/RestConnection.build/Debug-iphonesimulator/RestConnection.build/Objects-normal/i386/SearchResultsViewController.o
+x/Developer/Code/Blog/RestConnectionArticle1/Classes/SearchResultsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Developer/Code/Blog/RestConnectionArticle1/Classes/SearchResultsViewController.m278781417#278781417#0(0"0(0#0#81"/Developer/Code/Blog/RestConnectionArticle1/Classes/SearchResultsViewController.m4300885448#2106"    cd /Developer/Code/Blog/RestConnectionArticle1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Developer/Code/Blog/RestConnectionArticle1/build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/RestConnection-generated-files.hmap -I/Developer/Code/Blog/RestConnectionArticle1/build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/RestConnection-own-target-headers.hmap -I/Developer/Code/Blog/RestConnectionArticle1/build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/RestConnection-all-target-headers.hmap -iquote /Developer/Code/Blog/RestConnectionArticle1/build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/RestConnection-project-headers.hmap -F/Developer/Code/Blog/RestConnectionArticle1/build/Debug-iphonesimulator -I/Developer/Code/Blog/RestConnectionArticle1/build/Debug-iphonesimulator/include -I/Developer/Code/Blog/RestConnectionArticle1/build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/DerivedSources/i386 -I/Developer/Code/Blog/RestConnectionArticle1/build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/DerivedSources -include /var/folders/Xb/Xb9At7HBF1Oz6DYqM0KFD++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RestConnection_Prefix-blppkllzabcmyncveujdmikjshqb/RestConnection_Prefix.pch -c /Developer/Code/Blog/RestConnectionArticle1/Classes/SearchResultsViewController.m -o /Developer/Code/Blog/RestConnectionArticle1/build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/Objects-normal/i386/SearchResultsViewController.o0#
+
+CCompileC build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/Objects-normal/i386/main.o /Developer/Code/Blog/RestConnectionArticle1/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s278781417.458013
+e278781417.608812
+r1
+xCompileC
+xbuild/RestConnection.build/Debug-iphonesimulator/RestConnection.build/Objects-normal/i386/main.o
+x/Developer/Code/Blog/RestConnectionArticle1/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Developer/Code/Blog/RestConnectionArticle1/main.m278781417#278781417#0(0"0(0#0#50"/Developer/Code/Blog/RestConnectionArticle1/main.m4300885448#2052"    cd /Developer/Code/Blog/RestConnectionArticle1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Developer/Code/Blog/RestConnectionArticle1/build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/RestConnection-generated-files.hmap -I/Developer/Code/Blog/RestConnectionArticle1/build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/RestConnection-own-target-headers.hmap -I/Developer/Code/Blog/RestConnectionArticle1/build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/RestConnection-all-target-headers.hmap -iquote /Developer/Code/Blog/RestConnectionArticle1/build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/RestConnection-project-headers.hmap -F/Developer/Code/Blog/RestConnectionArticle1/build/Debug-iphonesimulator -I/Developer/Code/Blog/RestConnectionArticle1/build/Debug-iphonesimulator/include -I/Developer/Code/Blog/RestConnectionArticle1/build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/DerivedSources/i386 -I/Developer/Code/Blog/RestConnectionArticle1/build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/DerivedSources -include /var/folders/Xb/Xb9At7HBF1Oz6DYqM0KFD++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RestConnection_Prefix-blppkllzabcmyncveujdmikjshqb/RestConnection_Prefix.pch -c /Developer/Code/Blog/RestConnectionArticle1/main.m -o /Developer/Code/Blog/RestConnectionArticle1/build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Developer/Code/Blog/RestConnectionArticle1/Classes/SearchResultsViewController.xib
+s278781415.698314
+e278781416.608596
+r1
+xCompileXIB
+x/Developer/Code/Blog/RestConnectionArticle1/Classes/SearchResultsViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@50"CompileXIB Classes/SearchResultsViewController.xib278781415#278781416#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#83"/Developer/Code/Blog/RestConnectionArticle1/Classes/SearchResultsViewController.xib4300885448#544"    cd /Developer/Code/Blog/RestConnectionArticle1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Developer/Code/Blog/RestConnectionArticle1/build/Debug-iphonesimulator/RestConnection.app/SearchResultsViewController.nib /Developer/Code/Blog/RestConnectionArticle1/Classes/SearchResultsViewController.xib0#
+
+CCompileXIB /Developer/Code/Blog/RestConnectionArticle1/MainWindow.xib
+s278781415.697276
+e278781416.150127
+r1
+xCompileXIB
+x/Developer/Code/Blog/RestConnectionArticle1/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib278781415#278781416#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#58"/Developer/Code/Blog/RestConnectionArticle1/MainWindow.xib4300885448#502"    cd /Developer/Code/Blog/RestConnectionArticle1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Developer/Code/Blog/RestConnectionArticle1/build/Debug-iphonesimulator/RestConnection.app/MainWindow.nib /Developer/Code/Blog/RestConnectionArticle1/MainWindow.xib0#
+
+CGenerateDSYMFile /Developer/Code/Blog/RestConnectionArticle1/build/Debug-iphonesimulator/RestConnection.app.dSYM /Developer/Code/Blog/RestConnectionArticle1/build/Debug-iphonesimulator/RestConnection.app/RestConnection
+r0
+
+CLd /Developer/Code/Blog/RestConnectionArticle1/build/Debug-iphonesimulator/RestConnection.app/RestConnection normal i386
+r0
+
+CProcessInfoPlistFile /Developer/Code/Blog/RestConnectionArticle1/build/Debug-iphonesimulator/RestConnection.app/Info.plist RestConnection-Info.plist
+s278781415.663556
+e278781415.697074
+r1
+xProcessInfoPlistFile
+x/Developer/Code/Blog/RestConnectionArticle1/build/Debug-iphonesimulator/RestConnection.app/Info.plist
+xRestConnection-Info.plist
+lSLF07#2@33"Process RestConnection-Info.plist278781415#278781415#0(0"0(0#0#69"/Developer/Code/Blog/RestConnectionArticle1/RestConnection-Info.plist32651522506817648#515"    cd /Developer/Code/Blog/RestConnectionArticle1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility RestConnection-Info.plist -genpkginfo /Developer/Code/Blog/RestConnectionArticle1/build/Debug-iphonesimulator/RestConnection.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Developer/Code/Blog/RestConnectionArticle1/build/Debug-iphonesimulator/RestConnection.app/Info.plist0#
+
+CProcessPCH /var/folders/Xb/Xb9At7HBF1Oz6DYqM0KFD++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RestConnection_Prefix-blppkllzabcmyncveujdmikjshqb/RestConnection_Prefix.pch.gch RestConnection_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s278781416.608849
+e278781417.457778
+r1
+xProcessPCH
+x/var/folders/Xb/Xb9At7HBF1Oz6DYqM0KFD++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RestConnection_Prefix-blppkllzabcmyncveujdmikjshqb/RestConnection_Prefix.pch.gch
+xRestConnection_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile RestConnection_Prefix.pch278781416#278781417#0(0"0(0#0#69"/Developer/Code/Blog/RestConnectionArticle1/RestConnection_Prefix.pch4300885448#1932"    cd /Developer/Code/Blog/RestConnectionArticle1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Developer/Code/Blog/RestConnectionArticle1/build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/RestConnection-generated-files.hmap -I/Developer/Code/Blog/RestConnectionArticle1/build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/RestConnection-own-target-headers.hmap -I/Developer/Code/Blog/RestConnectionArticle1/build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/RestConnection-all-target-headers.hmap -iquote /Developer/Code/Blog/RestConnectionArticle1/build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/RestConnection-project-headers.hmap -F/Developer/Code/Blog/RestConnectionArticle1/build/Debug-iphonesimulator -I/Developer/Code/Blog/RestConnectionArticle1/build/Debug-iphonesimulator/include -I/Developer/Code/Blog/RestConnectionArticle1/build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/DerivedSources/i386 -I/Developer/Code/Blog/RestConnectionArticle1/build/RestConnection.build/Debug-iphonesimulator/RestConnection.build/DerivedSources -c /Developer/Code/Blog/RestConnectionArticle1/RestConnection_Prefix.pch -o /var/folders/Xb/Xb9At7HBF1Oz6DYqM0KFD++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RestConnection_Prefix-blppkllzabcmyncveujdmikjshqb/RestConnection_Prefix.pch.gch0#
+
+CTouch /Developer/Code/Blog/RestConnectionArticle1/build/Debug-iphonesimulator/RestConnection.app
+r0
+
